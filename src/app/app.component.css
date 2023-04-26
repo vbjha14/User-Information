@@ -1,0 +1,8 @@
+.navmenu{
+  background-color: rgb(95, 95, 255);
+  height:4vh;
+  padding: 0 35px;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
